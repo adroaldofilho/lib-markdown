@@ -1,0 +1,19 @@
+{
+  "name": "lib-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adroaldofilho/lib-markdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adroaldofilho/lib-markdown/issues"
+  },
+  "homepage": "https://github.com/adroaldofilho/lib-markdown#readme"
+}
